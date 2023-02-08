@@ -2,6 +2,8 @@ package junit.extensions;
 
 import junit.framework.Test;
 // comment
+// comment
+
 import junit.framework.TestCase;
 import junit.framework.TestResult;
 import junit.framework.TestSuite;
